@@ -1,4 +1,4 @@
-PIs are an easy, platform­independent way to allow mobile applications to
+APIs are an easy, platform­independent way to allow mobile applications to
 consume Internet accessible data and provide a user experience optimized for
 smartphones or tablets.
 
